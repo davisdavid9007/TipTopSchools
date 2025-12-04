@@ -122,7 +122,7 @@ $classes = $pdo->query("SELECT DISTINCT class FROM students ORDER BY class")->fe
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Manage Students - Mighty School for Valours</title>
+    <title>Manage Students - Tip Top Schools</title>
     <style>
         * {
             margin: 0;
@@ -508,7 +508,7 @@ $classes = $pdo->query("SELECT DISTINCT class FROM students ORDER BY class")->fe
     <div class="header">
         <div class="school-logo">       
             <img src="../assets/logo.png" alt="School Logo">
-            <span>Mighty School for Valours - Manage Students</span>
+            <span>Tip Top Schools - Manage Students</span>
         </div>
     </div>
 
@@ -745,4 +745,5 @@ $classes = $pdo->query("SELECT DISTINCT class FROM students ORDER BY class")->fe
         }
     </script>
 </body>
+
 </html>
