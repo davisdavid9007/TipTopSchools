@@ -33,7 +33,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Admin Login - Mighty School For Valours, Ota</title>
+    <title>Admin Login - Tip Top Schools</title>
     <style>
         * {
             margin: 0;
@@ -190,7 +190,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             <div class="school-logo">
                 <img src="../assets/logo.png" alt="School Logo">
             </div>
-            <div class="school-name">Mighty School for Valours</div>
+            <div class="school-name">Tip Top Schools</div>
             <div class="system-name">Admin Portal</div>
             <div class="tagline">Stand Out and Lead</div>
         </div>
@@ -226,4 +226,5 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         <a href="../index.php" class="back-link">← Back to Main Site</a>
     </div>
 </body>
+
 </html>
