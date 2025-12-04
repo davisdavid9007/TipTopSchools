@@ -25,7 +25,7 @@ $avg_score = $avg_score ? round($avg_score, 1) : 0;
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Admin Dashboard - Mighty School For Valours</title>
+    <title>Admin Dashboard - Tip Top Schools</title>
     <style>
         * {
             margin: 0;
@@ -407,4 +407,5 @@ $avg_score = $avg_score ? round($avg_score, 1) : 0;
         });
     </script>
 </body>
+
 </html>
